@@ -1,6 +1,6 @@
 package org.dimigo.basic;
 
-public class PrimitiveData {
+public class PrimitiveDataType {
 
 	public static void main(String[] args) {
 		String a="아이유";
