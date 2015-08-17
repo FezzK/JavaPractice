@@ -18,4 +18,4 @@ public class Rectangle extends Figure {
 	protected double calcArea() {
 		return width*height;
 	}
-}
+} 

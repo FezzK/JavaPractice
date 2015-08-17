@@ -10,4 +10,4 @@ public class FigureTest
 		System.out.println("삼각형 넓이 : " + String.format("%.1f", t.calcArea()));
 		System.out.println("사각형 넓이 : " + String.format("%.1f", r.calcArea()));
 	}
-}
+} 

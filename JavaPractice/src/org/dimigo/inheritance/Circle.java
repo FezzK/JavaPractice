@@ -19,4 +19,4 @@ public class Circle extends Figure
 	{
 		return radius*radius*Math.PI;
 	}
-}
+} 

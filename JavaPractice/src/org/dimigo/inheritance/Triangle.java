@@ -19,4 +19,4 @@ public class Triangle extends Figure
 	{
 		return (width*height)/2.0;
 	}
-}
+} 
